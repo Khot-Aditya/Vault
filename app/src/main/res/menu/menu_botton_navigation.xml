@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_passwords"
+        android:icon="@drawable/ic_pin"
+        android:title="@string/title_passwords" />
+
+    <item
+        android:id="@+id/navigation_cards"
+        android:icon="@drawable/ic_card"
+        android:title="@string/title_cards"/>
+
+    <item
+        android:id="@+id/navigation_documents"
+        android:icon="@drawable/ic_photo"
+        android:title="@string/title_documents" />
+
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/title_settings" />
+
+</menu>

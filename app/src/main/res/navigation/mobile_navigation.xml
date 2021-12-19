@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_passwords">
+
+    <fragment
+        android:id="@+id/navigation_passwords"
+        android:name="com.app.vault.ui.passwords.PasswordsFragment"
+        android:label="@string/title_passwords"
+        tools:layout="@layout/fragment_passwords" />
+
+    <fragment
+        android:id="@+id/navigation_cards"
+        android:name="com.app.vault.ui.cards.CardsFragment"
+        android:label="Cards"
+        tools:layout="@layout/fragment_cards" />
+
+    <fragment
+        android:id="@+id/navigation_documents"
+        android:name="com.app.vault.ui.documents.DocumentsFragment"
+        android:label="@string/title_documents"
+        tools:layout="@layout/fragment_documents" />
+
+    <fragment
+        android:id="@+id/navigation_settings"
+        android:name="com.app.vault.ui.settings.SettingsFragment"
+        android:label="@string/title_settings"
+        tools:layout="@layout/fragment_settings" />
+
+
+</navigation>

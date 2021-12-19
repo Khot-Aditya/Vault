@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Studio Projects/Vault2/app/src/main/res/drawable/line_divider.xml" value="0.18355263157894736" />
+        <entry key="..\:/Android Studio Projects/Vault2/app/src/main/res/layout/activity_documents.xml" value="0.17335526315789473" />
+        <entry key="..\:/Android Studio Projects/Vault2/app/src/main/res/layout/itemview_files.xml" value="0.17335526315789473" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable-anydpi/ic_Password_hide.xml" value="0.18223684210526317" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable-anydpi/ic_address.xml" value="0.18045602605863192" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable-anydpi/ic_arrow_right.xml" value="0.18045602605863192" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable-anydpi/ic_back.xml" value="0.18223684210526317" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable-anydpi/ic_backspace.xml" value="0.18223684210526317" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable-anydpi/ic_calender.xml" value="0.18223684210526317" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable-anydpi/ic_card.xml" value="0.18045602605863192" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable-anydpi/ic_card_number.xml" value="0.18223684210526317" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable-anydpi/ic_cards.xml" value="0.18223684210526317" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable-anydpi/ic_copy.xml" value="0.18223684210526317" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable-anydpi/ic_credit_card.xml" value="0.18223684210526317" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable-anydpi/ic_delete.xml" value="0.18223684210526317" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable-anydpi/ic_done.xml" value="0.18223684210526317" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable-anydpi/ic_edit.xml" value="0.18223684210526317" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable-anydpi/ic_edt_hide.xml" value="0.18223684210526317" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable-anydpi/ic_edt_password.xml" value="0.18045602605863192" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable-anydpi/ic_filter.xml" value="0.18045602605863192" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable-anydpi/ic_hide.xml" value="0.18223684210526317" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable-anydpi/ic_launcher.xml" value="0.18045602605863192" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable-anydpi/ic_menu.xml" value="0.18045602605863192" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable-anydpi/ic_notes.xml" value="0.18045602605863192" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable-anydpi/ic_passkey.xml" value="0.18045602605863192" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable-anydpi/ic_person.xml" value="0.18223684210526317" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable-anydpi/ic_photo.xml" value="0.18223684210526317" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable-anydpi/ic_pin.xml" value="0.18223684210526317" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable-anydpi/ic_search.xml" value="0.18223684210526317" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable-anydpi/ic_settings.xml" value="0.18223684210526317" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable-anydpi/img_card_mastercard.xml" value="0.18223684210526317" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable-anydpi/img_card_name_amex.xml" value="0.18223684210526317" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable-anydpi/img_card_name_maestro.xml" value="0.18223684210526317" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable-anydpi/img_card_name_mastercard.xml" value="0.18223684210526317" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable-anydpi/img_card_name_rupay.xml" value="0.18223684210526317" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable-anydpi/img_card_name_visa.xml" value="0.18223684210526317" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable-anydpi/img_card_rupay.xml" value="0.18223684210526317" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable-anydpi/img_card_visa.xml" value="0.18223684210526317" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable-anydpi/img_emv_chip.xml" value="0.18223684210526317" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.18223684210526317" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable/baseline_settings_black_36dp.xml" value="0.18045602605863192" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable/bottom_sheet_linear_background.xml" value="0.19046052631578947" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable/bottom_sheet_rounded_dialog.xml" value="0.19046052631578947" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable/ic_at.xml" value="0.19046052631578947" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable/ic_back.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable/ic_caret_down.xml" value="0.18859934853420196" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable/ic_cross_circle.xml" value="0.19046052631578947" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable/ic_delete.xml" value="0.19046052631578947" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable/ic_document.xml" value="0.18859934853420196" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable/ic_done.xml" value="0.19046052631578947" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable/ic_eye.xml" value="0.19046052631578947" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable/ic_forward.xml" value="0.19046052631578947" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable/ic_hide.xml" value="0.19046052631578947" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable/ic_hourglass_end.xml" value="0.1625" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable/ic_info.xml" value="0.18223684210526317" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable/ic_large_triangles.xml" value="0.18223684210526317" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.18223684210526317" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.18045602605863192" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable/ic_liquid_cheese.xml" value="0.18223684210526317" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable/ic_new_launcher3_foreground.xml" value="0.19046052631578947" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable/ic_new_launcher_foreground.xml" value="0.18045602605863192" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable/ic_star.xml" value="0.19046052631578947" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable/line_divider.xml" value="0.18223684210526317" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable/pin_empty.xml" value="0.18223684210526317" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable/pin_filled.xml" value="0.18223684210526317" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/drawable/view_background.xml" value="0.19046052631578947" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/font/fonts.xml" value="0.19111842105263158" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/activity_add_card.xml" value="0.176" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/activity_add_document.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/activity_add_password.xml" value="0.18026315789473685" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/activity_authentication.xml" value="0.176" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/activity_documents.xml" value="0.18026315789473685" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/activity_feed_back.xml" value="0.18026315789473685" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/activity_main.xml" value="0.17203947368421052" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/activity_search.xml" value="0.18026315789473685" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/bottom_sheet.xml" value="0.264" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/bottom_sheet_activity_documents.xml" value="0.18026315789473685" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/bottom_sheet_add_password.xml" value="0.18026315789473685" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/bottom_sheet_cards.xml" value="0.18026315789473685" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/bottom_sheet_documents.xml" value="0.18026315789473685" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/bottom_sheet_filter_cards.xml" value="0.18026315789473685" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/bottom_sheet_filter_documents.xml" value="0.18026315789473685" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/bottom_sheet_filter_password.xml" value="0.264" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/bottom_sheet_filter_passwords.xml" value="0.18026315789473685" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/bottom_sheet_main_activity.xml" value="0.264" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/bottom_sheet_navigation_cards.xml" value="0.4" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/bottom_sheet_navigation_documents.xml" value="0.4" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/bottom_sheet_navigation_passwords.xml" value="0.152" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/bottom_sheet_navigation_settings.xml" value="0.18026315789473685" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/bottom_sheet_options_cards.xml" value="0.18026315789473685" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/bottom_sheet_options_documents.xml" value="0.264" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/bottom_sheet_options_passwords.xml" value="0.4" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/bottom_sheet_passwords.xml" value="0.4" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/content_authentication.xml" value="0.17203947368421052" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/dropdown_item.xml" value="0.18026315789473685" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/fragment_cards.xml" value="0.17203947368421052" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/fragment_dashboard.xml" value="0.27239583333333334" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/fragment_documents.xml" value="0.2" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/fragment_first.xml" value="0.17203947368421052" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/fragment_home.xml" value="0.27239583333333334" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/fragment_notifications.xml" value="0.27239583333333334" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/fragment_passwords.xml" value="0.18026315789473685" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/fragment_settings.xml" value="0.17203947368421052" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/itemview_documents.xml" value="0.18026315789473685" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/itemview_documents_raw.xml" value="0.264" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/itemview_files.xml" value="0.18026315789473685" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/itemview_passwords.xml" value="0.264" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/itemview_raw_documents.xml" value="0.2" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/layout/layout_number_keys.xml" value="0.17203947368421052" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/menu/activity_add_card_menu.xml" value="0.17203947368421052" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/menu/activity_add_document_menu.xml" value="0.18026315789473685" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/menu/activity_add_passwords_menu.xml" value="0.18026315789473685" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/menu/activity_cards_menu.xml" value="0.18026315789473685" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/menu/activity_main_menu.xml" value="0.18026315789473685" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/menu/bottom_nav_menu.xml" value="0.17035830618892508" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/menu/itemview_passwords_menu.xml" value="0.17203947368421052" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/menu/password_menu.xml" value="0.1700325732899023" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/menu/toolbar_addcard_menu.xml" value="0.17203947368421052" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/menu/toolbar_menu.xml" value="0.17203947368421052" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/mipmap-anydpi-v26/ic_new_launcher3.xml" value="0.19046052631578947" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/mipmap-anydpi-v26/ic_new_launcher3_round.xml" value="0.19046052631578947" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Vault2/app/src/main/res/xml/searchable.xml" value="0.17203947368421052" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.4" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

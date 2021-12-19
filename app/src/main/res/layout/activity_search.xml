@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.app.vault.activity.SearchActivity">
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/edt_lyt_Search"
+        style="@style/Widget.App.TextInputLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/activity_padding"
+        app:boxStrokeColor="@color/dark_gray"
+        app:endIconMode="clear_text"
+        app:hintEnabled="false"
+        android:background="@color/light_gray"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:startIconDrawable="@drawable/ic_back">
+
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/edt_Search"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:imeOptions="actionDone"
+            android:inputType="text" />
+
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+<!--    TODO - HISTORY VIEW-->
+<!--    TODO - FILTER OPTIONS
+        1. FILTER HIDDEN ACCOUNTS
+        2. FILTER ADDRESS
+        3. FILTER TAGS
+-->
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerview_Search"
+        android:layout_width="match_parent"
+        tools:listitem="@layout/itemview_passwords"
+        android:layout_height="match_parent"/>
+
+    <LinearLayout
+        android:id="@+id/linearLayout_NoData_Search"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            style="@style/TextAppearance.MaterialComponents.Headline3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/no_item_found"
+            android:textColor="@color/gray" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/open_sans_light"
+            android:text="@string/no_data"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</LinearLayout>

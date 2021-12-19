@@ -1,0 +1,72 @@
+<resources>
+
+    <string name="app_name">Vault</string>
+
+    <string name="title_passwords">Passwords</string>
+    <string name="title_cards">Cards</string>
+    <string name="title_documents">Documents</string>
+    <string name="title_settings">Settings</string>
+
+    <!--    Authentication Activity-->
+    <string name="enter_pin">Enter Pin</string>
+    <string name="forgot_pin">Forgot PIN?</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="_0">0</string>
+
+
+    <!--    Add Password Activity-->
+    <string name="add_new_account">New Account</string>
+    <string name="website_name">Website Name</string>
+    <string name="username">Username</string>
+    <string name="email_address">Email Address</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="generate_new">Generate New</string>
+    <string name="copy_from_clipboard">Copy from Clipboard</string>
+    <string name="more_options">More Options</string>
+    <string name="mark_as_not_important">Mark as Not Important</string>
+    <string name="remove_from_hidden">Remove from Hidden</string>
+    <string name="tags">Tags</string>
+
+    <!--    Tags-->
+    <string name="all">All</string>
+    <string name="google_account">Google Account</string>
+    <string name="master_password">Master Password</string>
+    <string name="wallet">Wallet</string>
+    <string name="business">Business</string>
+    <string name="e_commerce">E-commerce</string>
+    <string name="social_media">Social Media</string>
+    <string name="finance">Finance</string>
+    <string name="security_pin">Security PIN</string>
+    <string name="other">Other</string>
+
+    <string name="search">Search</string>
+    <string name="filter">Filter</string>
+    <string name="menu">Menu</string>
+
+    <string name="delete">Delete</string>
+    <string name="save">save</string>
+    <string name="copy">Copy Password</string>
+    <string name="edit">Edit</string>
+    <string name="hide">Hide Account</string>
+    <string name="help_feedback"><![CDATA[Help & Feedback]]></string>
+    <string name="no_item_found"><![CDATA[¯\\_(ツ)_/¯]]></string>
+    <string name="no_data">No Data Found</string>
+    <string name="reset">Reset</string>
+
+    <string name="personal">Personal</string>
+    <string name="government">Government</string>
+    <string name="education">Education</string>
+    <string name="medical">Medical</string>
+    <string name="insurance">Insurance</string>
+    <string name="bills">Payment Bills</string>
+
+</resources>

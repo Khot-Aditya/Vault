@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ui.documents.DocumentsFragment">
+
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+        android:id="@+id/swipeRefresh_Documents"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.core.widget.NestedScrollView
+            android:id="@+id/nestedScroll_DocumentsFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <HorizontalScrollView
+                    android:id="@+id/horizontalScrollView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:overScrollMode="never"
+                    android:scrollbars="none"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent">
+
+                    <com.google.android.material.chip.ChipGroup
+                        android:id="@+id/chipGroup_Documents"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        app:checkedChip="@id/chip_Documents_All"
+                        app:selectionRequired="true"
+                        app:singleSelection="true">
+
+                        <com.google.android.material.chip.Chip
+                            android:id="@+id/chip_Documents_All"
+                            style="@style/Colors_Widget.MaterialComponents.Chip.Choice"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="@dimen/activity_padding"
+                            android:text="@string/all"
+                            android:textAppearance="@style/TextAppearance.MaterialComponents.Body1" />
+
+                        <com.google.android.material.chip.Chip
+                            android:id="@+id/chip_Documents_PersonalDocument"
+                            style="@style/Colors_Widget.MaterialComponents.Chip.Choice"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/personal"
+                            android:textAppearance="@style/TextAppearance.MaterialComponents.Body1" />
+
+                        <com.google.android.material.chip.Chip
+                            android:id="@+id/chip_Documents_Government"
+                            style="@style/Colors_Widget.MaterialComponents.Chip.Choice"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/government"
+                            android:textAppearance="@style/TextAppearance.MaterialComponents.Body1" />
+
+                        <com.google.android.material.chip.Chip
+                            android:id="@+id/chip_Documents_Education"
+                            style="@style/Colors_Widget.MaterialComponents.Chip.Choice"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/education"
+                            android:textAppearance="@style/TextAppearance.MaterialComponents.Body1" />
+
+                        <com.google.android.material.chip.Chip
+                            android:id="@+id/chip_Documents_PaymentBills"
+                            style="@style/Colors_Widget.MaterialComponents.Chip.Choice"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/bills"
+                            android:textAppearance="@style/TextAppearance.MaterialComponents.Body1" />
+
+                        <com.google.android.material.chip.Chip
+                            android:id="@+id/chip_Documents_Insurance"
+                            style="@style/Colors_Widget.MaterialComponents.Chip.Choice"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/insurance"
+                            android:textAppearance="@style/TextAppearance.MaterialComponents.Body1" />
+
+                        <com.google.android.material.chip.Chip
+                            android:id="@+id/chip_Documents_Business"
+                            style="@style/Colors_Widget.MaterialComponents.Chip.Choice"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/business"
+                            android:textAppearance="@style/TextAppearance.MaterialComponents.Body1" />
+
+                        <com.google.android.material.chip.Chip
+                            android:id="@+id/chip_Documents_Finance"
+                            style="@style/Colors_Widget.MaterialComponents.Chip.Choice"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/finance"
+                            android:textAppearance="@style/TextAppearance.MaterialComponents.Body1" />
+
+                        <com.google.android.material.chip.Chip
+                            android:id="@+id/chip_Documents_Medical"
+                            style="@style/Colors_Widget.MaterialComponents.Chip.Choice"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/medical"
+                            android:textAppearance="@style/TextAppearance.MaterialComponents.Body1" />
+
+                        <com.google.android.material.chip.Chip
+                            android:id="@+id/chip_Documents_Other"
+                            style="@style/Colors_Widget.MaterialComponents.Chip.Choice"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginEnd="@dimen/activity_padding"
+                            android:text="@string/other"
+                            android:textAppearance="@style/TextAppearance.MaterialComponents.Body1" />
+
+                    </com.google.android.material.chip.ChipGroup>
+                </HorizontalScrollView>
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/recyclerview_Documents"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:overScrollMode="never"
+                    android:scrollbars="none"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/horizontalScrollView"
+                    tools:listitem="@layout/itemview_documents" />
+
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+        </androidx.core.widget.NestedScrollView>
+    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout_NoData_Documents"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            style="@style/TextAppearance.MaterialComponents.Headline3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/no_item_found"
+            android:textColor="@color/gray" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/open_sans_light"
+            android:text="@string/no_data"
+            android:textStyle="bold" />
+    </LinearLayout>
+</LinearLayout>

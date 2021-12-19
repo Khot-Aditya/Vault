@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/menu_saveCard"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_done"
+        android:title="@string/save"/>
+
+    <item android:id="@+id/menu_deleteCard"
+        android:title="@string/delete"/>
+
+    <item android:id="@+id/menu_settingCard"
+        android:title="@string/title_settings"/>
+
+    <item android:id="@+id/menu_helpCard"
+        android:title="@string/help_feedback"/>
+</menu>
